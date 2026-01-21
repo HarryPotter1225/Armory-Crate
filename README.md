@@ -1,2 +1,5 @@
-# Armory-Crate
-This helps users manage device settings, performance options, and visual customization in one simple interface.  It offers easy controls for lighting effects, system monitoring, and personalized usage modes. Designed for smooth operation, it enhances user experience with clear controls and a modern layout.
+[Armoury Crate](https://armorycrate.com/) brings everything together in a single, intuitive hub designed for ASUS ROG and TUF gaming systems. It allows you to manage performance, cooling, and system behavior without juggling multiple tools, making everyday control simple and efficient. Whether you’re a casual user or a serious gamer, the interface is built to feel smooth and accessible.
+
+With powerful customization options, you can synchronize RGB lighting across compatible components, adjust fan curves, and switch seamlessly between different performance modes like high-power gaming or quiet everyday use. Creating personalized profiles for individual games helps ensure each title runs exactly the way you want, without manual tweaks every time.
+
+On top of that, real-time system monitoring keeps you informed about temperatures, usage, and performance at a glance. Driver and firmware updates are handled in one place, saving time and reducing hassle. Altogether, it’s a smart, forward-looking solution that keeps your system optimized, personalized, and ready for whatever you throw at it.
